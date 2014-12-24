@@ -1,0 +1,4 @@
+*pushdpopd.R: added in rev 2.0 Does what bash commands ‘pushd’ and ‘popd’ do
+*short.R: rev 2.0 added option to return matrix rows rather than elements; fixed a bug when “skipel” exceeded length of input object.
+*lssize.R(cgwtools): rev. 1.1 - Fixed a serious bug which caused the sizes for list objects to be calculated incorrectly.
+*seqle.R: Changed so the results are returned (not invisible).
